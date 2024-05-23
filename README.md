@@ -1,4 +1,4 @@
-# PROJETO RECEITA 
+# Projeto Receita
 ## Descrição Do Projeto
 O Projeto consistia em criarmos uma página monstrando o passo a passo de como criar um Macarrão Ao Molho Branco Com Camarão.
 ## Tecnologia Utilizadas
